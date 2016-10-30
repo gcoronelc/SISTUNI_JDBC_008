@@ -1,0 +1,10 @@
+INYECCIÓN SQL
+=============
+
+https://www.owasp.org/index.php/SQL_Injection_Prevention_Cheat_Sheet
+
+
+CODIGO FUENTE
+=============
+
+http://gcoronelc.blogspot.pe/p/codigo-fuente.html
